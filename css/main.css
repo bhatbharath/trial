@@ -1,0 +1,10 @@
+body {
+    background-image: url(/Portfolio/img/5166950.jpg);
+}
+
+@media(max-width:500px)
+{
+    body{
+        background-image: url(/Portfolio/img/5166950.jpg);
+    }
+}
